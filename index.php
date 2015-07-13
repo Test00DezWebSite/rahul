@@ -1,6 +1,10 @@
 <?php
 include "includes/app.php";
 ?>
+
+<!--
+This code is added by me editor. :p
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,10 +69,10 @@ include "includes/app.php";
 					<!-- random image -->
 					<div class="caption left-align">
 						<h3>
-							Spontanious reply.
+							Spontaneous and immediate reply to your requests.
 						</h3>
 						<h5 class="light grey-text text-lighten-3">
-							Just mail me your project requirnment and get help.
+							Just mail me your project requirement and I will help you.
 						</h5>
 					</div>
 				</li>
@@ -77,10 +81,10 @@ include "includes/app.php";
 					<!-- random image -->
 					<div class="caption right-align">
 						<h3>
-							Proper documented code.
+							Properly documented code.
 						</h3>
 						<h5 class="light grey-text text-lighten-3">
-							I love to write the code, which is easy to the hand over to somebody else.
+							I write versatile codes, which are easy to the hand over to somebody else and can be understood easily.
 						</h5>
 					</div>
 				</li>
@@ -92,7 +96,7 @@ include "includes/app.php";
 							Design from Customer point of view.
 						</h3>
 						<h5 class="light grey-text text-lighten-3">
-							When i design, I think in user's point of view. that's why my design looks cool.
+							When I design, I think through the user's point of view. That's why my designs are versatile and appealing.
 						</h5>
 					</div>
 				</li>
@@ -133,7 +137,7 @@ include "includes/app.php";
 							<img src="photo/mohit.jpg" class="circle responsive-img materialboxed" >
 						</div>
 						<div class="col s12 l9" >
-							<p class="left-align light flow-text">I am the guy, you are searching for. My name is <?php echo gi("myname"); ?>. I am a cool front-end developer. I do designing, HTML, CSS and basic JavaScript. I design website in wonderfool manner. I am a hard working designing geek. </p>
+							<p class="left-align light flow-text">I am the guy, you are searching for as a front-end developer. My name is <?php echo gi("myname"); ?>. I am a cool front-end developer. I can do graphic designing, HTML, CSS and basic JavaScript. I design websites wonderfully and am a hard working designing geek. </p>
 						</div>
 					</div>
 				</div>
@@ -154,7 +158,7 @@ include "includes/app.php";
 						<h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
 						<h5 class="center">Speeds up development</h5>
 
-						<p class="light">I love to learn new things. So i learn things very faster. Just 2 month ago i started development & I fell in love with it's beauty.</p>
+						<p class="light">I am very passionate about learning new things. So I learn things very rapidly and in less time. I started development merely 2 months ago & I fell in love with it's beauty.</p>
 					</div>
 				</div>
 
@@ -163,7 +167,7 @@ include "includes/app.php";
 						<h2 class="center brown-text"><i class="material-icons">group</i></h2>
 						<h5 class="center">User Experience Focused</h5>
 
-						<p class="light">When every i make a website, I care about how user will feel about it.</p>
+						<p class="light">When every I make a website, I care about the user's needs and desires.</p>
 					</div>
 				</div>
 
@@ -172,7 +176,7 @@ include "includes/app.php";
 						<h2 class="center brown-text"><i class="material-icons">settings</i></h2>
 						<h5 class="center">Easy to work</h5>
 
-						<p class="light">My code is very documented. So it is very easy to hand over to some other guy.</p>
+						<p class="light">My code is properly documented. So it is very easy for someone else to comprehend, understand and work on it.</p>
 					</div>
 				</div>
 			</div>
@@ -204,7 +208,7 @@ include "includes/app.php";
 				<div class="col s12 center">
 					<h3><i class="material-icons medium brown-text">school</i></h3>
 					<h4>Education and Qualifications</h4>
-					<p class="left-align light">I have persuaded Deploma from Birla Institute of technolozy pilani.</p>
+					<p class="left-align light">I have pursued Diploma from Birla Institute of Technology, Pilani.</p>
 				</div>
 			</div>
 
@@ -220,7 +224,7 @@ include "includes/app.php";
 				<div class="col s12 center">
 					<h3><i class="material-icons medium brown-text">code</i></h3>
 					<h4>Front end projects</h4>
-					<p class="left-align light">I am just entered in this industry 2 months back. I am learning HTML, CSS, Basic JavaScript. Using that, I have designed my home page. I am not well experienced guy, I believe that I am fast learning guy. I am willing to have freelance projects to work on. </p>
+					<p class="left-align light">I am just entered in this industry 2 months back. I am learning HTML, CSS, Basic JavaScript. Using that, I have designed my home page. I do not have much professional experience but I believe that I am a quick learner. I am willing to undertake freelance projects to work on. </p>
 				</div>
 			</div>
 
@@ -236,7 +240,7 @@ include "includes/app.php";
 				<div class="col s12 center">
 					<h3><i class="material-icons medium brown-text">business</i></h3>
 					<h4>Hiring & Freelancing</h4>
-					<p class="left-align light">I am awailable full time, so you can hire me a full time developer. I can also work on freelancing projects. since i am bigginer, so my price will be comparatively low. </p>
+					<p class="left-align light">I am available full time, so you can hire me as a full-time developer. I can also work on freelancing projects. Since I am beginner, so I can provide work at a comparatively lower price. </p>
 				</div>
 			</div>
 
@@ -254,7 +258,7 @@ include "includes/app.php";
 				<div class="col s12 center">
 					<h3><i class="material-icons medium brown-text">person_pin</i></h3>
 					<h4>Personal Life</h4>
-					<p class="left-align light">I am from neekkathana, in Sikar distruct in rajasthan. most of the time i do designing & research about new things. I also love to play cricket.</p>
+					<p class="left-align light">I am from Neekkathana, in Sikar district in Rajasthan. Most of the time I design & research about new things. I also love to play cricket.</p>
 				</div>
 			</div>
 
@@ -334,7 +338,7 @@ include "includes/app.php";
 			<div class="row" style="margin-bottom:0px;padding-bottom:0px;" >
 				<div class="col l6 s12">
 					<h5 class="white-text">About my life</h5>
-					<p class="grey-text text-lighten-4">I just want to live my life in super wonderfull manner, doing all the things i love.</p>
+					<p class="grey-text text-lighten-4">I just want to live my life in a fulfilling and wonderful manner and keep doing all the things I love.</p>
 
 
 				</div>
@@ -411,3 +415,4 @@ include "includes/app.php";
 <?php
 closedb();
 ?>
+

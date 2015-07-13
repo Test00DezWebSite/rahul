@@ -1,6 +1,6 @@
 <?php
 
-	define("server",'poorvi');//server = laptop,server,poorvi
+	define("server",'server');//server = laptop,server,poorvi
 
 	if(server=="poorvi"){
 		define('HOST','http://poorvi.cse.iitd.ac.in/~cs1120233/rahul/',false); // false mean that HOST cannot be used as hOsT
