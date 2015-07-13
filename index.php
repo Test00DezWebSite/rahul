@@ -40,7 +40,7 @@ This code is added by me editor. :p
 						disptabs(gi("toplinks"));
 					?>
 				</ul>
-				<a href="#home" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+				<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
 			</div>
 		</nav>
 	</div>
@@ -134,7 +134,7 @@ This code is added by me editor. :p
 					<h4>Who Am I ?</h4>
 					<div class="row" >
 						<div class="col s12 l3" >
-							<img src="photo/mohit.jpg" class="circle responsive-img materialboxed" >
+							<img src="photo/rahul.jpg" class="circle responsive-img materialboxed" >
 						</div>
 						<div class="col s12 l9" >
 							<p class="left-align light flow-text">I am the guy, you are searching for as a front-end developer. My name is <?php echo gi("myname"); ?>. I am a cool front-end developer. I can do graphic designing, HTML, CSS and basic JavaScript. I design websites wonderfully and am a hard working designing geek. </p>
@@ -167,7 +167,7 @@ This code is added by me editor. :p
 						<h2 class="center brown-text"><i class="material-icons">group</i></h2>
 						<h5 class="center">User Experience Focused</h5>
 
-						<p class="light">When every I make a website, I care about the user's needs and desires.</p>
+						<p class="light">When ever I make a website, I care about the user's needs and desires.</p>
 					</div>
 				</div>
 
@@ -224,7 +224,7 @@ This code is added by me editor. :p
 				<div class="col s12 center">
 					<h3><i class="material-icons medium brown-text">code</i></h3>
 					<h4>Front end projects</h4>
-					<p class="left-align light">I am just entered in this industry 2 months back. I am learning HTML, CSS, Basic JavaScript. Using that, I have designed my home page. I do not have much professional experience but I believe that I am a quick learner. I am willing to undertake freelance projects to work on. </p>
+					<p class="left-align light">I am just entered in this industry 2 months back. I am learning HTML, CSS, Basic JavaScript, BootStrap, Materialize CSS. Using that, I have designed my home page. I do not have much professional experience but I believe that I am a quick learner. I am willing to undertake freelance projects to work on. </p>
 				</div>
 			</div>
 
@@ -353,7 +353,7 @@ This code is added by me editor. :p
 				<div class="col l3 s12">
 					<h5 class="white-text">Experience</h5>
 					<ul>
-						<li><a class="white-text" href="#personal">Education</a></li>
+						<li><a class="white-text" href="#education">Education</a></li>
 						<li><a class="white-text" href="#projects">Projects</a></li>
 					</ul>
 				</div>
