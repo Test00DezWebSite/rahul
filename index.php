@@ -208,7 +208,10 @@ This code is added by me editor. :p
 				<div class="col s12 center">
 					<h3><i class="material-icons medium brown-text">school</i></h3>
 					<h4>Education and Qualifications</h4>
-					<p class="left-align light">I have pursued Diploma from Birla Institute of Technology, Pilani.</p>
+					<p class="left-align light">I have pursued Diploma in Computer Science Department from Birla Technical Training Institute, pilani.
+					<br>
+					<span style='color:#000000;font-weight:400;' >Internship: </span> Aditya birla training & research center,pilani. I worked on linux console application.
+					</p>
 				</div>
 			</div>
 
@@ -258,7 +261,7 @@ This code is added by me editor. :p
 				<div class="col s12 center">
 					<h3><i class="material-icons medium brown-text">person_pin</i></h3>
 					<h4>Personal Life</h4>
-					<p class="left-align light">I am from Neekkathana, in Sikar district in Rajasthan. Most of the time I design & research about new things. I also love to play cricket.</p>
+					<p class="left-align light">I am from Neem ka thana, in Sikar district in Rajasthan. I came to Delhi to explore web-designing. Most of the time I design & research about new things. I also love to play cricket.</p>
 				</div>
 			</div>
 
@@ -299,9 +302,11 @@ This code is added by me editor. :p
 										</i>
 									</h6>
 									<div class="grey-text">
-										Malviya nager, B-178
-										<br>
-										 Hauz khas, 110016,<br> India
+										165,
+										Near Choupal,<br>
+										Ghitorni<br>
+										New delhi - 110030<br>
+										India
 									</div>
 								</div>
 								<div class="col s6">
